@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Lal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=180&section=header&text=Aditya%20Lal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
   
 </div>
 
@@ -28,9 +28,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lladityall&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/lladityall?style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/lladityall?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=lladityall&style=for-the-badge&color=00FFFF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/lladityall?style=for-the-badge&color=00FFFF" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/lladityall?style=for-the-badge&color=00FFFF" alt="GitHub Stars" />
 </div>
 
 <br/>
