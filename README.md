@@ -140,14 +140,6 @@ const aditya = {
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=lladityall&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
 
-### 📈 Detailed Stats
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lladityall&theme=tokyonight&hide_border=false&layout=compact&custom_title=Weekly%20Development%20Time" height="180em"/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=lladityall&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180em"/>
-
-</div>
 
 ### 💼 Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lladityall&theme=tokyonight" width="100%"/>
