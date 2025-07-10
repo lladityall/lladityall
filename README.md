@@ -162,15 +162,6 @@ const aditya = {
 </div>
 </details>
 
-###
-
-<h3 align="left">🐍 Snake eating my contributions</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lladityall/lladityall/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
 
 <details>
 <summary><h3>📊 Weekly Development Breakdown</h3></summary>
@@ -186,58 +177,3 @@ HTML         3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </details>
-
-###
-
-<h3 align="left">🚀 Recent Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/lladityall/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lladityall&repo=your-repo-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/lladityall/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lladityall&repo=your-repo-2&theme=tokyonight" />
-  </a>
-</div>
-
-###
-
-<h3 align="center">✨ Quote of the Day</h3>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-###
-
-<h3 align="center">🎵 Spotify Playing</h3>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
-###
-
-<div align="center">
-  <h3>💖 Support My Work</h3>
-  <p>If you find my projects helpful, consider buying me a coffee!</p>
-  
-  <a href="https://www.buymeacoffee.com/lladityall" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <p>Made with ❤️ and lots of ☕</p>
-  <p>© 2024 Aditya. All rights reserved.</p>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lladityall/lladityall/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lladityall/lladityall/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lladityall/lladityall/output/github-contribution-grid-snake.svg">
-</picture>
