@@ -127,11 +127,7 @@ const aditya = {
 <div align="center">
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=lladityall&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lladityall&layout=compact&theme=radical&hide_border=false&langs_count=10" height="180em"/>
-
-### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=lladityall&theme=radical&hide_border=false&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" height="200em"/>
 
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lladityall&custom_title=Contribution%20Graph&bg_color=1a1b27&color=00FFFF&line=00CED1&point=40E0D0&area=true&hide_border=false" height="300em"/>
