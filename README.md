@@ -87,7 +87,7 @@ const aditya = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style-for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -98,13 +98,13 @@ const aditya = {
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style-for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style-for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style-for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style-for-the-badge&logo=firebase&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style confounding-for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -128,32 +128,30 @@ const aditya = {
 <div align="center">
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=lladityall&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lladityall&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lladityall&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lladityall&layout=compact&theme=radical&hide_border=false&langs_count=10" height="180em"/>
 
 ### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=lladityall&theme=tokyonight&hide_border=false&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" height="200em"/>
+<img src="https://streak-stats.demolab.com/?user=lladityall&theme=radical&hide_border=false&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" height="200em"/>
 
 ### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lladityall&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false" height="300em"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lladityall&custom_title=Contribution%20Graph&bg_color=1a1b27&color=00FFFF&line=00CED1&point=40E0D0&area=true&hide_border=false" height="300em"/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=lladityall&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=lladityall&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
 
 ### 💼 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lladityall&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lladityall&theme=radical" width="100%"/>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lladityall&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lladityall&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lladityall&theme=tokyonight" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lladityall&theme=tokyonight&utcOffset=5.5" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lladityall&theme=radical" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lladityall&theme=radical" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lladityall&theme=radical" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lladityall&theme=radical&utcOffset=5.5" height="180em"/>
 </div>
 
 </div>
 </details>
-
 
 <details>
 <summary><h3>📊 Weekly Development Breakdown</h3></summary>
@@ -165,7 +163,4 @@ TypeScript   8 hrs 15 mins   ████████▒░░░░░░░░
 Python       2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.0%
 CSS          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   5.4%
 HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
-```
-<!--END_SECTION:waka-->
-
 </details>
