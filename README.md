@@ -1,186 +1,144 @@
-
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Maurya&fontSize=42&fontColor=white&animation=twinkling&fontAlignY=32" width="100%"/>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+👋+What's+Up%3F;Full+Stack+Developer+%7C+Tech+Leader;Passionate+About+Innovation+%26+Code;Building+Scalable+Solutions+🚀;Always+Learning%2C+Always+Growing+📈;Code+%7C+Create+%7C+Innovate+💡" alt="Typing Animation" />
-  
-  <!-- Beautiful Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<!-- About Me Section with Modern Card Design -->
+###
+
 <div align="center">
-  
-  ### 🚀 **Software Developer & Technical Leader**
-  📍 **Mumbai, India**
-  
+  <a href="https://www.linkedin.com/in/lladityall" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/lladityall" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
+###
 
-### 🎯 **About Me**
-
-- 🔭 **Currently Building:** Scalable software solutions and leading tech innovations
-- 🌱 **Learning:** Advanced cloud architectures and AI integration
-- 👯 **Collaboration:** Always open to exciting projects and partnerships
-- 🎯 **Focus:** Web development, mobile apps, and technical leadership
-- 💡 **Passion:** Exploring cutting-edge technologies and mentoring developers
-- 🌐 **Portfolio:** [amanengineer.me](https://amanengineer.me)
-- ⚡ **Fun Fact:** I turn coffee into code and ideas into reality!
-
-<br clear="both">
-
-<!-- Skills Section with Beautiful Icons -->
 <div align="center">
-  
-  ## 🛠️ **Tech Arsenal**
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  ### 💻 **Programming Languages**
-  <div>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python" alt="Programming Languages" />
-  </div>
-  
-  ### 🎨 **Frontend Development**
-  <div>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html,figma" alt="Frontend" />
-  </div>
-  
-  ### ⚙️ **Backend & Databases**
-  <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend" />
-  </div>
-  
-  ### ☁️ **Cloud & DevOps**
-  <div>
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,git,github,vercel" alt="Cloud & DevOps" />
-  </div>
-  
-  ### 📱 **Mobile Development**
-  <div>
-    <img src="https://skillicons.dev/icons?i=androidstudio,react" alt="Mobile" />
-  </div>
-  
-  ### 🛠️ **Tools & Design**
-  <div>
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,notion" alt="Design & Tools" />
-  </div>
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lladityall.lladityall&"  />
 </div>
 
-<!-- Real-time GitHub Stats -->
-<div align="center">
-  
-  ## 📊 **GitHub Analytics**
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=amanmaurya7&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanmaurya7&langs_count=12&count_private=true&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0d1117&hide=html,css" alt="Language Stats" />
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Streak and Trophies -->
-  <div>
-    <img src="https://streak-stats.demolab.com?user=amanmaurya7&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanmaurya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  </div>
-  
+###
+
+<h1 align="center">Hey there 👋, I'm Aditya</h1>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+
+<p align="left">
+🚀 Passionate Full Stack Developer & Tech Enthusiast<br><br>
+🔭 I'm currently working on exciting projects involving modern web technologies<br>
+🌱 I'm constantly learning and exploring new frameworks and tools<br>
+💬 Ask me about React, Node.js, Python, or anything tech-related<br>
+⚡ Fun fact: I love solving complex problems and turning ideas into reality<br>
+🎯 Goal: Contributing to open source and building impactful applications
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-<!-- Advanced GitHub Activity Graph -->
+###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
 <div align="center">
-  
-  ## 📈 **Development Activity**
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanmaurya7&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" width="100%"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=lladityall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lladityall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<!-- Profile Summary Cards -->
+###
+
 <div align="center">
-  
-  ## 🔥 **Detailed Analytics**
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanmaurya7&theme=tokyonight" alt="Repos per Language"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanmaurya7&theme=tokyonight" alt="Most Commit Language"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanmaurya7&theme=tokyonight" alt="Stats"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanmaurya7&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Profile Details -->
-  <div style="margin-top: 20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanmaurya7&theme=tokyonight" width="100%" alt="Profile Summary"/>
-  </div>
-  
+  <img src="https://streak-stats.demolab.com?user=lladityall&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<!-- Connect With Me -->
+###
+
+<h3 align="left">📊 GitHub Activity Graph:</h3>
+
 <div align="center">
-  
-  ## 🌐 **Connect & Collaborate**
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <div>
-    <a href="https://www.linkedin.com/in/amanmaurya-me/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://x.com/amanmaurya_02" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://amanengineer.me" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="mailto:contact@amanengineer.me" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://github.com/amanmaurya7" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </div>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=amanmaurya7&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/amanmaurya7?style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
-    <img src="https://img.shields.io/github/stars/amanmaurya7?style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars"/>
-  </div>
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lladityall&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
+###
 
+<h3 align="left">🏆 GitHub Trophies</h3>
 
-<!-- Quote Section -->
 <div align="center">
-  
-  ## 💭 **Daily Inspiration**
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad&author=Cory%20House" alt="Inspirational Quote"/>
-  
+  <img src="https://github-profile-trophy.vercel.app?username=lladityall&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
+
+###
+
+<h3 align="left">📈 Contribution Stats</h3>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=lladityall&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+###
+
+<h3 align="left">💻 Most Used Languages</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lladityall&theme=tokyonight&hide_border=false&layout=compact" />
+</div>
+
+###
+
+<h3 align="left">🐍 Snake eating my contributions</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lladityall/lladityall/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<details>
+<summary><h3>📊 Weekly Development Breakdown</h3></summary>
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   50.2%
+TypeScript   8 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.1%
+Python       2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.0%
+CSS          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   5.4%
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
