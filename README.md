@@ -104,7 +104,6 @@ const aditya = {
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style-for-the-badge&logo=firebase&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style confounding-for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
