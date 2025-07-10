@@ -38,8 +38,8 @@
 ```typescript
 const aditya = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "data science"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "R"],
+    askMeAbout: ["web dev", "tech", "app dev", "data analysis", "machine learning", "AI"],
     technologies: {
         backEnd: {
             js: ["Node", "Express", "NestJS"],
@@ -51,15 +51,20 @@ const aditya = {
             js: ["React", "Next.js", "Vue", "Angular"],
             css: ["Tailwind", "Bootstrap", "Material-UI", "Styled Components"]
         },
+        dataScienceMLAI: {
+            python: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "Jupyter"],
+            r: ["Tidyverse", "Caret"],
+            tools: ["Jupyter Notebook", "Matplotlib", "Seaborn", "Keras"]
+        },
         devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions", "Jenkins"],
         mobile: ["React Native", "Flutter"],
         cloudServices: ["AWS", "GCP", "Azure", "Vercel", "Netlify"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase", "Supabase"],
-        misc: ["Socket.IO", "GraphQL", "REST APIs", "Microservices"]
+        misc: ["Socket.IO", "GraphQL", "REST APIs", "Microservices", "Apache Spark"]
     },
-    architecture: ["SPA", "MVC", "MVP", "Serverless", "Microservices"],
-    currentFocus: "Building scalable web applications and contributing to open source",
-    funFact: "I debug with console.log() and I'm not ashamed of it! 🐛"
+    architecture: ["SPA", "MVC", "MVP", "Serverless", "Microservices", "Data Pipelines"],
+    currentFocus: "Building scalable AI-driven applications and data pipelines",
+    funFact: "I debug neural networks with print statements and still trust my console.log()! 🧠🐛"
 };
 ```
 
